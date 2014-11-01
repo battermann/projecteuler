@@ -1,6 +1,6 @@
-﻿module projecteuler.problem2tests
+﻿module problem2tests
 
-open projecteuler.problem2
+open problem2
 open NUnit.Framework
 open FsUnit
 
