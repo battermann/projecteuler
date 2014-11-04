@@ -9,6 +9,9 @@
   		(is (= (solve 4 ) 2))
   		(is (= (solve 21 ) 7))
   		(is (= (solve 23 ) 23))
-  		;(is (= (solve 13195 ) 29))
-	)
-)
+  		(is (= (solve 13195) 29))))
+
+(deftest problem3-tests2
+    (testing "project euler problem 3"
+      (is (= (solve 600851475143) 29))))
+
