@@ -8,3 +8,4 @@ The intention is to learn new languages, to improve my programming skills and al
 
 * F#
 * clojure
+* Python
