@@ -1,5 +1,5 @@
 import unittest, sys
-sys.path.append('..\src')
+sys.path.append('../src')
 import problem5
 
 class Problem5Tests(unittest.TestCase):
